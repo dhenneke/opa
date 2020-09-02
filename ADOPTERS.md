@@ -115,6 +115,9 @@ production users that have added themselves (in alphabetical order):
   etc. SAP/Infrabox is used in production within SAP and has several
   external users.
 
+* [SDA SE](https://sda.se) uses OPA for microservice authorization. For more details see
+  this [blog post](https://medium.com/sda-se/decentralized-authorization-with-the-open-policy-agent-bd15bd1a188).
+
 * [T-Mobile](https://www.t-mobile.com) uses OPA as a core component for their
   [MagTape](https://github.com/tmobile/magtape/) project that enforces best 
   practices and secure configurations across their fleet of Kubernetes 
